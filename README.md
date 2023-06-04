@@ -21,6 +21,6 @@ Our process that created the "root" file already extracted the viw's, and then y
 P.S. This was not a problem for me with text, but in case it comes up for graphics, here is how to fix the "DSi binaries missing" problem (credit to R-YaTian for originally writing
 this up):
 1. Open a vanilla ROM in tinke, press "Game Information" up top, then press the "Dump Donor Header button."
-2. Open your edited ROM, press "Game Information" there, then "Edit header and banner," then "import donor iheader."
+2. Open your edited ROM, press "Game Information" there, then "Edit header and banner," then "import donor iheader." Choose the header you just exported to import.
 3. Save the ROM (specifically as a new file) and close tinke, then open it back up (with the edited ROM again). Now go to root/ftc, and replace arm7i.bin and arm9i.bin with those
 from a vanilla ROM (e.g. from the "root" folder you made earlier). Save the ROM again.
