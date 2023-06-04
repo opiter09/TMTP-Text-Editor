@@ -1,6 +1,8 @@
 # TMTP-Text-Editor
 This is a ROMHacking tool for the DSiWare game "Too Much Tingle Pack."
 
+Note: As of 0.9.5, this game (both vanilla and edited) does not emulate correctly in MelonDS. As such, you will have to run it through a loader on hardware (e.g. TwilightMenu++).
+
 To get started, download TinkeDSi by R-YaTian. If it has a release after 0.9.3, download it from here: https://github.com/R-YaTian/TinkeDSi/releases.
 Otherwise, you will need to download the "nightly" version from here: https://github.com/R-YaTian/TinkeDSi/actions/runs/4741139830 (you want the "Artifact" at the bottom).
 
