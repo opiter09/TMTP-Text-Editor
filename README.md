@@ -1,5 +1,5 @@
 # TMTP-Text-Editor
-This is a ROMHacking tool for the DSiWare game "Too Much Tingle Pack."
+This is a tool for translating the DSiWare game "Too Much Tingle Pack."
 
 Note: As of v0.9.5, this game (both vanilla and edited) does not emulate correctly in MelonDS. As such, you will have to run it through a loader on hardware (e.g. TwilightMenu++).
 
