@@ -13,6 +13,8 @@ Now we can run split.bat. This requires you to have Python 3+ installed, but I m
 a series of five "OVL" folders, inside which are a variety of text files. Some of them appear to be gibberish or code or something; the easiest way to check is by opening them
 in Notepad++, since that renders it in Japanese automatically if possible. Basically, don't mess with anything that doesn't look like text.
 
+Also, great news, this game already has an English font, and it uses normal ASCII encodings! So just type away on Notepad or Notepad++ or whatever, and the game will work perfectly.
+
 When you are ready to insert, first run merge.bat, which creates a series of "output_overlay" files. Then, open up your ROM in tinke, choose whichever overlay(s) you edited, click
 on it, and press "Change File." In the file popup menu from that, choose the corresponding output_overlay, then press Save ROM. On the screen that pops up from that, keep both
 check-boxes unchecked, then prss "Accept." Now you get to name your new ROM file, and you're done!
