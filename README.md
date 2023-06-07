@@ -19,8 +19,9 @@ When you are ready to insert, first run merge.bat, which creates a series of "ou
 on it, and press "Change File." In the file popup menu from that, choose the corresponding output_overlay, then press Save ROM. On the screen that pops up from that, keep both
 check-boxes unchecked, then prss "Accept." Now you get to name your new ROM file, and you're done!
 
-Finally, much of this game's text is stored in graphic files. Thankfully, there is an existing editor for those, which can be found here: https://www.romhacking.net/utilities/1628/.
-Our process that created the "root" file already extracted the viw's, and then you can just reinsert them the same way as the overlays.
+Finally, much of this game's text is stored in graphic files. There is an existing extractor for those, which can be found here: https://www.romhacking.net/utilities/1628/.
+However, for some reason it cannot inject them, so you will probably have to mess with the source code or something to make it happen. Once you do, however, the viw files can be
+inserted into the ROM just like the overlays.
 
 P.S. This was not a problem for me with text, but in case it comes up for graphics, here is how to fix the "DSi binaries missing" problem (credit to R-YaTian for originally writing
 this up):
